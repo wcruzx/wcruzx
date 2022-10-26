@@ -21,7 +21,7 @@
   <img align="center" alt="PostgreSQL" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="MongoDB" height="80" width="120"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-  <img align="center" alt="H2" height="80" width="120"
+  <img align="center" alt="H2" height="50" width="80"
   src="http://www.h2database.com/html/images/h2-logo-2.png" />
   
  
