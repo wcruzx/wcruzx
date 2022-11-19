@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently open to work
 - 📚 Currently studying for a degree in Systems Analysis and Development
-- 🧐 My speciality is Back-End java
 - 😄 Pronouns: He/Him
 
 <div align="center">
