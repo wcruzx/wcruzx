@@ -1,7 +1,6 @@
 ### Hi There, I'm Wéverson Cruz 👋
 
 - 🔭 I’m currently open to work
-- 📚 Currently studying for a degree in Systems Analysis and Development
 - 😄 Pronouns: He/Him
 
 <div align="center">
