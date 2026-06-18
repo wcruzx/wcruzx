@@ -2,12 +2,6 @@
 
 - I graduated in Systems Analysis and Development and hold a postgraduate degree in Software Engineering. I have experience in the areas of Systems Support and Software Development, with expertise in programming languages, databases, and quality testing.
 
-<div align="center">
-  <a href="https://github.com/wcruzx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wcruzx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcruzx&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
  ## 👩‍💻 Languages & Tools  
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
