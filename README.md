@@ -1,6 +1,6 @@
-### Hi There, I'm Wéverson Cruz 👋
+### Hi There 👋
 
-- I am Wéverson Cruz. I graduated in Systems Analysis and Development and hold a postgraduate degree in Software Engineering. I have experience in the areas of Systems Support and Software Development, with expertise in programming languages, databases, and quality testing.
+- I'm Wéverson Cruz, a Systems Analysis and Development graduate with a postgraduate degree in Software Engineering. I have hands-on experience in systems support and software development, focusing on programming, databases, and quality testing.
 
  ## 👩‍💻 Languages & Tools 
 <div style="display: inline_block"><br>
