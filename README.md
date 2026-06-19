@@ -19,7 +19,7 @@
   
 ## 📱 Contact me
  
-  <a href = "mailto:weversoncruzz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/weversoncruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-42d981?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://wcruzx.github.io/portfolio/)  
+<a href = "mailto:weversoncruzz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=2)](https://www.linkedin.com/in/weversoncruz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-42d981?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://wcruzx.github.io/portfolio/)  
 </div>
