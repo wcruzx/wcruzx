@@ -20,5 +20,5 @@
 ## 📱 Contact me
  
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weversoncruzz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weversoncruz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=onnx&logoColor=white)](https://www.linkedin.com/in/weversoncruz/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-42d981?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://wcruzx.github.io/portfolio/)
